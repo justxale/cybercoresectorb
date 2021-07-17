@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b3fd9154634ebdb8c8a48960b9a16a, type: 3}
+  m_Name: Test Dialogue
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: eb80340a-b9f2-474f-a6a0-06d4f3b73bba
+    PortName: Next
+    TargetNodeGUID: 7a24b836-6103-4d93-9421-4ded39836fcb
+  - BaseNodeGUID: 7a24b836-6103-4d93-9421-4ded39836fcb
+    PortName: I'm ok
+    TargetNodeGUID: e1a0a295-455a-42c4-ab64-c964a09fbd84
+  - BaseNodeGUID: 7a24b836-6103-4d93-9421-4ded39836fcb
+    PortName: I'm fine
+    TargetNodeGUID: e1a0a295-455a-42c4-ab64-c964a09fbd84
+  DialogueNodeData:
+  - NodeGUID: 7a24b836-6103-4d93-9421-4ded39836fcb
+    DialogueText: Hello, how are you?
+    Position: {x: 261, y: 200}
+  - NodeGUID: e1a0a295-455a-42c4-ab64-c964a09fbd84
+    DialogueText: Ok
+    Position: {x: 604, y: 200}
+  ExposedProperties:
+  - PropertyName: Ok?
+    PropertyValue: Test Var
+  CommentBlockData:
+  - ChildNodes:
+    - 
+    Position: {x: 0, y: 0}
+    Title: 
