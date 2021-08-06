@@ -1,4 +1,4 @@
-# Cybercore: Secotr B repository
+# Cybercore: Sector B repository
 
 TODO list:
 
@@ -6,6 +6,10 @@ TODO list:
 - [ ] Moving Platform controller
 - [x] ~~Base Player controller~~
 - [ ] Jumpad controller
+- [ ] Player Dash
+- [ ] Player Crouch
+- [ ] Player Dash
+- [ ] Player Climb
 
 # 2. Art
 - [x] ~~Idle sprites~~
@@ -13,6 +17,10 @@ TODO list:
 - [ ] Walking sprites
 - [ ] With a Gun sprites
 - [ ] Secret sprites
+- [ ] Player Dash sprites
+- [ ] Player Crouch sprites
+- [ ] Player Dash sprites
+- [ ] Player Climb sprites
 
 - [ ] Jumpad texture
 - [ ] Moving Platform texture
