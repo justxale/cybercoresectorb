@@ -6,10 +6,12 @@ TODO list:
 - [ ] Moving Platform controller
 - [x] ~~Base Player controller~~
 - [ ] Jumpad controller
-- [ ] Player Dash
-- [ ] Player Crouch
-- [ ] Player Dash
-- [ ] Player Climb
+- [ ] Shooting controller reedit
+- [ ] Player Dash controller
+- [ ] Player Crouch controller
+- [ ] Player Double Jump controller
+- [ ] Player Climb controller
+- [ ] Player Jump controller
 
 # 2. Art
 - [x] ~~Idle sprites~~
@@ -19,7 +21,7 @@ TODO list:
 - [ ] Secret sprites
 - [ ] Player Dash sprites
 - [ ] Player Crouch sprites
-- [ ] Player Dash sprites
+- [ ] Player Double Jump sprites
 - [ ] Player Climb sprites
 
 - [ ] Jumpad texture
