@@ -4,11 +4,11 @@ TODO list:
 
 # 1. Coding
 - [ ] Moving Platform controller
-- [x] Base Player controller
+- [x] ~~Base Player controller~~
 - [ ] Jumpad controller
 
 # 2. Art
-- [x] Idle sprites
+- [x] ~~Idle sprites~~
 - [ ] Jumping sprites
 - [ ] Walking sprites
 - [ ] With a Gun sprites
@@ -16,6 +16,6 @@ TODO list:
 
 - [ ] Jumpad texture
 - [ ] Moving Platform texture
-- [x] Vine texture
+- [x] ~~Vine texture~~
 - [ ] Background Tiles textures
 - [ ] Backgrounds
