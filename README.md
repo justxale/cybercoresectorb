@@ -12,6 +12,7 @@ TODO list:
 - [ ] Player Double Jump controller
 - [ ] Player Climb controller
 - [ ] Player Jump controller
+- [ ] Player Statistics controller
 
 # 2. Art
 - [x] ~~Idle sprites~~
