@@ -5,13 +5,13 @@ TODO list:
 # 1. Coding
 - [ ] Moving Platform controller
 - [x] ~~Base Player controller~~
-- [ ] Jumpad controller
-- [ ] Shooting controller reedit
+- [x] ~~Jumpad controller~~
+- [ ] Shooting controller
 - [ ] Player Dash controller
 - [ ] Player Crouch controller
-- [ ] Player Double Jump controller
+- [x] ~~Player Double Jump controller~~
 - [ ] Player Climb controller
-- [ ] Player Jump controller
+- [x] ~~Player Jump controller~~
 - [ ] Player Statistics controller
 
 # 2. Art
